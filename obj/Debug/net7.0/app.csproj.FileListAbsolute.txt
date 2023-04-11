@@ -1,0 +1,15 @@
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+E:\programming\Uni\methods\test3\app\bin\Debug\net7.0\app.exe
+E:\programming\Uni\methods\test3\app\bin\Debug\net7.0\app.deps.json
+E:\programming\Uni\methods\test3\app\bin\Debug\net7.0\app.runtimeconfig.json
+E:\programming\Uni\methods\test3\app\bin\Debug\net7.0\app.dll
+E:\programming\Uni\methods\test3\app\bin\Debug\net7.0\app.pdb
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.dll
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\refint\app.dll
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.pdb
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+E:\programming\Uni\methods\test3\app\obj\Debug\net7.0\ref\app.dll
